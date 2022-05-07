@@ -61,3 +61,59 @@ export const userData = [
       },
   ];
   
+
+
+  export const userRows = [
+    { id: 1, username: ' Kajanthuka Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 2, username: ' Sinthuja Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 3, username: ' Kamala Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 4, username: ' Harrish Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 5, username: ' Haswini Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 6, username: ' Riki Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 7, username: ' Vijewakumar Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 8, username: ' Ajith Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 9, username: ' Hansika Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+    { id: 10, username: ' Jhothy Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+    ,email:"kaja@gmail.com",
+    status:"active" ,
+    defectCounts:39  },
+
+
+        
+      ];
