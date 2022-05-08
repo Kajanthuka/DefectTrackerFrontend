@@ -1,7 +1,11 @@
 # Getting Started with Defect Tracker App
-Dashboard
+1.Dashboard
 
-UserPage 
-User Page Delete 
-User Edit Page
+2.UserPage 
+
+3.User Page Delete 
+
+4.User Edit Page
+
+5.new User
 
