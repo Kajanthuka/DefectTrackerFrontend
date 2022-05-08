@@ -10,3 +10,5 @@
 5.new User
 
 6.Defect Page
+
+7.Update Defect Page
