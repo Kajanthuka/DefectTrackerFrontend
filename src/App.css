@@ -8,3 +8,8 @@
     /* background-color: darkcyan; 
 
 }  */
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}

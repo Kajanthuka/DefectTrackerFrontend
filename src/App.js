@@ -4,6 +4,8 @@ import Home from "./pages/home/Home"
 import UserList from './pages/userList/UserList'
 import User from './pages/user/User';
 import NewUser from "./pages/newUser/newUser";
+import DefectList from "./pages/defectList/DefectList";
+
 import "./app.css"
 import {
   BrowserRouter as Router,
@@ -33,6 +35,15 @@ function App() {
               <NewUser/>
             </Route>
           
+            <Route path="/defect"> 
+              <DefectList/>
+            </Route>
+            <Route path="/defect/:defectId"> 
+              <User/>
+            </Route>
+            <Route path="/newDefect"> 
+              <NewUser/>
+            </Route>
         </Switch>
       </div>
     </div>

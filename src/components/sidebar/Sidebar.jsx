@@ -2,6 +2,7 @@ import React from 'react'
 import './sidebar.css'
 import {LineStyle,Timeline,BarChart ,TrendingUp,PersonOutline,AccountTree,BugReport,Autorenew,MailOutline
 ,Forum,ChatBubbleOutline,Work} from "@material-ui/icons"
+import { Link } from 'react-router-dom'
 
 
 
@@ -31,22 +32,30 @@ export default function Sidebar() {
             <div className="sidebarMenu">
                 <h3 className="sidebarTitle">Quick Menu</h3>
                 <ul className="sidebarList">
+                    <Link to="/users" className='link'>
                     <li className="sidebarListItem active">
                         <PersonOutline className='sidebarIcon'/>
                         Users
                     </li>
+                    </Link>
+                    <Link to="/project" className='link'>
                     <li className="sidebarListItem">
                         <AccountTree  className='sidebarIcon'/>
                         Project  
                     </li>
+                    </Link>
+                    <Link to="/defect" className='link'>
                     <li className="sidebarListItem">
                         <BugReport className='sidebarIcon'/>
                         Defect
                     </li>
+                    </Link>
+                    <Link to="/defectstatus" className='link'>
                     <li className="sidebarListItem">
                         <Autorenew  className='sidebarIcon'/>
                         Defect status
                     </li>
+                    </Link>
                 </ul>
             </div>
         </div>
@@ -54,6 +63,7 @@ export default function Sidebar() {
             <div className="sidebarMenu">
                 <h3 className="sidebarTitle">Notification</h3>
                 <ul className="sidebarList">
+                    
                     <li className="sidebarListItem active">
                         <MailOutline className='sidebarIcon'/>
                         Mail

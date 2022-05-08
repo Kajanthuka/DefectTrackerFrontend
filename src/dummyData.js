@@ -117,3 +117,59 @@ export const userData = [
 
         
       ];
+
+
+      export const defectRows = [
+        { id: 1, defectDetail: ' Kajanthuka Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"Medium"  },
+    
+        { id: 2, defectDetail: ' Sinthuja Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"Low"  },
+    
+        { id: 3, defectDetail: ' Kamala Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"High"  },
+    
+        { id: 4, defectDetail: ' Harrish Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"High"  },
+    
+        { id: 5, defectDetail: ' Haswini Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"High"  },
+    
+        { id: 6, defectDetail: ' Riki Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:39  },
+    
+        { id: 7, defectDetail: ' Vijewakumar Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"Medium"  },
+    
+        { id: 8, defectDetail: ' Ajith Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"Low"  },
+    
+        { id: 9, defectDetail: ' Hansika Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"High"  },
+    
+        { id: 10, defectDetail: ' Jhothy Snow', avatar:"https://images.pexels.com/photos/1009904/pexels-photo-1009904.jpeg?cs=srgb&dl=pexels-min-an-1009904.jpg&fm=jpg"
+        ,email:"kaja@gmail.com",
+        status:"active" ,
+        defectStatus:"Medium"  },
+    
+    
+            
+          ];
