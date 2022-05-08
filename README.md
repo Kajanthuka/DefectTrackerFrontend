@@ -15,4 +15,4 @@
 
 8.Add Defect Page
 
-9. Defect Delete
+9.Defect Delete
