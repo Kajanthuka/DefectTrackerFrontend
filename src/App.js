@@ -5,7 +5,7 @@ import UserList from './pages/userList/UserList'
 import User from './pages/user/User';
 import NewUser from "./pages/newUser/newUser";
 import DefectList from "./pages/defectList/DefectList";
-
+import Defect from "./pages/defect/Defect";
 import "./app.css"
 import {
   BrowserRouter as Router,
@@ -35,15 +35,18 @@ function App() {
               <NewUser/>
             </Route>
           
-            <Route path="/defect"> 
+
+            
+            <Route path="/defects"> 
               <DefectList/>
             </Route>
             <Route path="/defect/:defectId"> 
-              <User/>
+              <Defect/>
             </Route>
-            <Route path="/newDefect"> 
+            <Route path="/newdefect"> 
               <NewUser/>
             </Route>
+          
         </Switch>
       </div>
     </div>

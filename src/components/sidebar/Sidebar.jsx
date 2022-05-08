@@ -44,7 +44,7 @@ export default function Sidebar() {
                         Project  
                     </li>
                     </Link>
-                    <Link to="/defect" className='link'>
+                    <Link to="/defects" className='link'>
                     <li className="sidebarListItem">
                         <BugReport className='sidebarIcon'/>
                         Defect

@@ -17,7 +17,8 @@ export default function DefectList() {
 
     const columns = [
         { field: 'id', headerName: 'ID', width: 90 },
-        { field: 'defect', headerName: 'Defect ', width: 200, renderCell:(params)=>{
+        { field: 'defect', headerName: 'Defect ', width: 200,
+         renderCell:(params)=>{
             return(
                 <div className='defectListUser'>
                     <img className='defectListImg' src={params.row.avatar} alt="" />

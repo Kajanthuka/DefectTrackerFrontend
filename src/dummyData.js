@@ -61,6 +61,26 @@ export const userData = [
       },
   ];
   
+  export const defectData = [
+    {
+      name: 'Jan',
+      Defect: 3000,
+     
+    },
+    {
+        name: 'Feb',
+        Defect: 2000,
+       
+      },
+      {
+        name: 'Mar',
+        Defect: 4000,
+       
+      },
+      
+     
+  ];
+  
 
 
   export const userRows = [
