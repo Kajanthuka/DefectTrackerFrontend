@@ -13,6 +13,7 @@ import {
   Route,
   
 } from "react-router-dom";
+import NewDefect from "./pages/newDefect/NewDefect";
 
 function App() {
   return (
@@ -44,7 +45,7 @@ function App() {
               <Defect/>
             </Route>
             <Route path="/newdefect"> 
-              <NewUser/>
+              <NewDefect/>
             </Route>
           
         </Switch>
