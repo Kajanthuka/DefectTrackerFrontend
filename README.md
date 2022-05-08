@@ -12,3 +12,5 @@
 6.Defect Page
 
 7.Update Defect Page
+
+8.Add Defect Page
